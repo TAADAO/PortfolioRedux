@@ -3,9 +3,11 @@
   }
   
   body {
+    background:url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/footer_lodyas.png);
     background-color: #f1f1f1;
     padding: 20px;
     font-family: Arial;
+    color: white
   }
   
   .main {
@@ -40,7 +42,7 @@
   }
   
   .content {
-    background-color: rgb(187, 179, 179);
+    background-color: rgb(28, 25, 151);
     padding: 10px;
   }
   
